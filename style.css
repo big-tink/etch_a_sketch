@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(201, 201, 201);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+button {
+    margin: 20px;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+
+#container {
+    border: 20px rgb(78, 71, 57) solid;
+    display: flex;
+    flex-wrap: wrap;
+    height: 800px;
+    width: 800px;
+}
