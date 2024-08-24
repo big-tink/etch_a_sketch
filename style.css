@@ -27,4 +27,5 @@ button {
     flex-wrap: wrap;
     height: 800px;
     width: 800px;
+    background-color: rgb(255, 255, 255);
 }
